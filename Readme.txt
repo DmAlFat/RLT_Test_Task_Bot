@@ -1,7 +1,7 @@
 -----Установка-----
 
 -Клонировать проект в пустую папку:
-git clone https://github.com/DmAlFat/Test_task_bot.git.
+git clone https://github.com/DmAlFat/RLT_Test_Task_Bot.git
 
 -Установить необходимые модули:
 pip install -r requirements.txt.
